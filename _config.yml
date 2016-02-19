@@ -1,7 +1,7 @@
 name: SkincareArtist
 favicon: null
-layout_spectrum: 0.8853490718174726
-typography_spectrum: 0.073872662615031
+layout_spectrum: 1
+typography_spectrum: 0.39651
 cta:
   domain: null
   bucket: null
